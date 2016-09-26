@@ -56,6 +56,7 @@ See index.js for next notes
 * create 'views' folder in main directory
 * filename.handlebars  
     * filename can now be called in res.render('filename')
+    
 -Handlebars layouts folder-
 * create 'layouts' folder in main directory
 * filename.handlebars
