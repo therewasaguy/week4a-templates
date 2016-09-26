@@ -58,7 +58,7 @@ See index.js for next notes
     * filename can now be called in res.render('filename')
     
 -Handlebars layouts folder-
-* create 'layouts' folder in main directory
+* create 'layouts' folder in 'views' directory
 * filename.handlebars
     *filename can now go into app.engine('handlebars', hbs({ defaultLayout: 'filename'}));
 
