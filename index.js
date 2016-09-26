@@ -22,7 +22,7 @@ app.set('port', portNum );
 app.engine('handlebars', hbs({defaultLayout: 'main'}) );
     // Step 3: Set the view engine of express to handlebars
 app.set('view engine', 'handlebars');
-    // handlesbars will look for 'views' in a 'views' FOLDER
+    // handlebars will look for 'views' in a 'views' FOLDER
     // See views folder for home.handlebars
 
 app.get('/:name', function(req, res) {
