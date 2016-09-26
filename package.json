@@ -1,0 +1,15 @@
+{
+  "name": "week4a-templates",
+  "version": "1.0.0",
+  "description": "1. Engine/Mustache Templates\r 2. Handlebars\r 3. Node Project File Structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  }
+}
