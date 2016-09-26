@@ -16,19 +16,21 @@ There are many options for Templates, but we will be using Handlebars
 * [handlebarsjs.com](http://handlebarsjs.com)
 * EX: {{ handlebars }}
 * Object gets called into HTML with the handlebars {{}}
-    * {'name': 'my-name'} -> <h1>Hello my name is {{name}}.</h1>
+    * {'name': 'my-name'} -> '<h1>Hello my name is {{name}}.</h1>'
 * Blocks Change the Context
     * See slides for example
     * Using different 'levels' to call objects within objects.
     * enter with '#each'
       * Creates a loop of formatting of each <-hence syntax- object in the array
     * exit with '/each'
+    
 ###### Handlebars client-side
 A few steps:
 * need handlebars client library
 * need special script with text/x-handlebars-template
 * Follow slides links to play with example
     * see also: spotify api example (link in slides)
+    
 ###### Handlebars server-side
 Express is designed for view engines, so it works very will with handlebars server-side
 
