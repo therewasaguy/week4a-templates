@@ -1,10 +1,13 @@
 # Week 4a In-Class Notes
+
+
 ## Topics
 1. Engine/Mustache Templates
 2. Handlebars
 3. Node Project File Structure
 
-## Slides
+## [Slides](https://docs.google.com/presentation/d/1ccqzkrbujrUMzrv9pdk1vAopQmfHE2J1iUTSRM2-S3Y/edit?usp=sharing) ([link](https://docs.google.com/presentation/d/1ccqzkrbujrUMzrv9pdk1vAopQmfHE2J1iUTSRM2-S3Y/edit?usp=sharing))
+
 ### MVC
 #### View
 * 'V' is 'View' in Model, View, Controller
