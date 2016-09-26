@@ -16,7 +16,7 @@ There are many options for Templates, but we will be using Handlebars
 * [handlebarsjs.com](http://handlebarsjs.com)
 * EX: {{ handlebars }}
 * Object gets called into HTML with the handlebars {{}}
-    * {'name': 'my-name'} -> '<h1>Hello my name is {{name}}.</h1>'
+    * {'name': 'my-name'} -> 'Hello my name is {{name}}.'
 * Blocks Change the Context
     * See slides for example
     * Using different 'levels' to call objects within objects.
